@@ -1,7 +1,11 @@
+// COMPONENTS
+import Header from "./components/Header"
+
 function App() {
+    return (
+        <Header/>
 
-    return  <h1>Hello, I am Irakli Mazmishvili</h1>
-
+    )
 }
 
 export default App
